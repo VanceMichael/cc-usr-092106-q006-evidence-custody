@@ -1,0 +1,10 @@
+{
+  "domain": "evidence-custody",
+  "version": 1,
+  "facts": [
+    "行动会在仓库和车辆查获药品",
+    "包装可能被人为损毁",
+    "扣押药品需要逐一登记和核验"
+  ],
+  "sample_id": "sample-006"
+}
